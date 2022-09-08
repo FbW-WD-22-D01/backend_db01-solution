@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Peter",
+        "age": 25,
+        "pets": [],
+        "hobbies": ["football", "reading", "movies"]
+    },
+    {
+        "name": "Tina",
+        "age": 22,
+        "pets": [{
+            "name": "Fluffy",
+            "kind": "Dog"
+        }],
+        "hobbies": ["reading", "movies", "music"]
+    },
+    {
+        "name": "Angelo",
+        "age": 25,
+        "pets": [{
+            "name": "Zoey",
+            "kind": "Cat"
+        },
+        {
+            "name": "Felicitas",
+            "kind": "Cat"
+        }],
+        "hobbies": ["musicals", "art", "cats"]
+    },
+    {
+        "name": "Sophie",
+        "age": 36,
+        "pets": [{
+            "name": "Justus",
+            "kind": "Cat"
+        },
+        {
+            "name": "Brutus",
+            "kind": "Dog"
+        }],
+        "hobbies": ["knitting", "reading", "traveling"]
+    },
+    {
+        "name": "Luke",
+        "age": 19,
+        "pets": [],
+        "hobbies": ["football", "movies", "sport"]
+    },
+    {
+        "name": "Abdu",
+        "age": 21,
+        "pets": [],
+        "hobbies": ["programming", "games"]
+    }
+]
